@@ -22,7 +22,7 @@ font-family: sans-serif;
    position: absolute;
    top: 50%;
    left: 50%;
-   transform: translate(-50%, -40%);
+   transform: translate(-50%, -30%);
    text-transform: uppercase;
    width:60%;
    text-align:center;
@@ -30,8 +30,8 @@ font-family: sans-serif;
 
 
 .content h1{
-	color:yellow;
-	font-size:60px;
+	color:Black;
+	font-size:40px;
 	letter-spacing:15px;
 }
 .content-h3{
@@ -44,7 +44,7 @@ font-family: sans-serif;
 	
 	
 .content h1 span{
-	color:white;
+	color:red;
 }
 .content a{
    background: black;
